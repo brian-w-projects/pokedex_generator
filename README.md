@@ -1,7 +1,8 @@
 # Pokedex Generator
-This program uses a neural network trained on all the available Pokedex entries to create new, fake Pokedex entries.
 
-## pokedex_generator.py
+### This program uses a neural network trained on all the available Pokedex entries to create new, fake Pokedex entries.
+
+<img align='right' src='https://upload.wikimedia.org/wikipedia/en/9/92/Pok%C3%A9mon_episode_1_screenshot.png'/>
 
 To use this program run the above file with one or two seed words. The seed words will act as the beginning of the entry. The words must have appeared at least once in a past Pokedex entry. 
 
@@ -13,7 +14,6 @@ You may also include an optional flag -t with a float from 0.1 to 1. The larger 
 * It has a functional purpose. It releases the leaves on it's head. It shines brightly in the seven colors of the sea.
 * This pokemon is known to fight and make a weary body feel invigorated.
 * This pokemon is a significant ingredient in remedies for misdeeds 500 years ago.
-* Never never stop bouncing! If it stops moving its body is covered by nonflammable fur. It can fly at speeds of roughly 29 knots quickly closing in on it's back
-* A Pokemon that has a body of a volcano it flies at speeds of 75 mph by squirming and twisting its 10 tentacles
-* A single word: heartless
-* A pokemon that is said to be the reason. It is said to have flown by spreading its wings
+* Never never stop bouncing! If it stops moving its body is covered by nonflammable fur. It can fly at speeds of roughly 29 knots quickly closing in on it's back.
+* A Pokemon that has a body of a volcano, it flies at speeds of 75 mph by squirming and twisting its 10 tentacles.
+* A single word: heartless.
