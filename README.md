@@ -17,3 +17,17 @@ You may also include an optional flag -t with a float from 0.1 to 1. The larger 
 * Never never stop bouncing! If it stops moving its body is covered by nonflammable fur. It can fly at speeds of roughly 29 knots quickly closing in on it's back.
 * A Pokemon that has a body of a volcano, it flies at speeds of 75 mph by squirming and twisting its 10 tentacles.
 * A single word: heartless.
+
+<pre>
+usage: pokedex_generator.py [-h] [-t TEMPERATURE] seed
+
+Generate Pokedex entries by supplying seed word/words
+
+positional arguments:
+  seed            One or two words to seed Pokedex entry. EG: this pokemon
+
+optional arguments:
+  -h, --help      show this help message and exit
+  -t TEMPERATURE  Float from 0.1 to 1. The higher this value the weirder the
+                  entries. The lower the value, the more similar. Default: 0.5
+</pre>
